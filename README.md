@@ -38,8 +38,3 @@ Certifique-se de ter o MATLAB instalado em seu sistema para executar este progra
 
 Após a execução do programa, você ouvirá o sinal distorcido sendo reproduzido e verá uma figura com os subplots mostrando o sinal original e o sinal distorcido.
 
-## Aviso
-
-Este programa é apenas um exemplo simples e pode ser modificado e aprimorado para atender às suas necessidades. Certifique-se de entender os conceitos de processamento de sinal e distorção antes de usar esse código em contextos mais avançados.
-
-**Nota:** Lembre-se de que este README é uma explicação textual do programa. Certifique-se de que o código e as instruções sejam precisas e correspondam à versão mais recente do programa que você está executando.
